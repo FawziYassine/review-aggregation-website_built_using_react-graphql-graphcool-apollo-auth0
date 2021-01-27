@@ -1,4 +1,4 @@
-# rotten_tomatoes_clone_using_react-graphql-graphcool-apollo-auth0
+# A Website (Clone) that Mimics “Rotten Tomatoes” Built Using React, Graphql, Graphcool, Apollo, Auth0 Web APIs
 
 This web application is a simple rotten tomatoes clone using:
 
