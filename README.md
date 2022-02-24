@@ -8,4 +8,4 @@ This web application is a sample review-aggregation website built using:
 * [Apollo Client](https://www.apollographql.com/client/)
 * [Auth0](https://auth0.com/)
 
-*(N.B: Since this web application uses Graphcool the database of this application is on the cloud.)*
+*(N.B: Since this web application uses Graphcool, the database of this application is on the cloud.)*
