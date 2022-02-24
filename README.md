@@ -4,9 +4,7 @@ This web application is a sample review-aggregation website built using:
 
 * [React](https://reactjs.org/)
 * [GraphQL](https://graphql.org/)
-* [Graphcool](https://www.graph.cool/)* [Auth0](https://auth0.com/)
-10
-
+* [Graphcool](https://www.graph.cool/)  
 * [Apollo Client](https://www.apollographql.com/client/)
 * [Auth0](https://auth0.com/)
 
